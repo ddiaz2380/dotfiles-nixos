@@ -103,7 +103,7 @@
       "virbr0"
     ];
     enable = true;
-    qemuRunAsRoot = false;
+    qemu.runAsRoot = false;
   };
   boot.kernelModules = [ "kvm-amd" "kvm-intel" ];
 
