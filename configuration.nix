@@ -179,6 +179,9 @@
      curl
      xarchiver
      mysql
+     apache
+     php
+     phpmyadmin
      dbeaver
      docker
      docker-compose
